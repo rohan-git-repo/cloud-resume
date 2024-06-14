@@ -1,5 +1,5 @@
 # cloud-resume
-https://d2tz2jaiu1ret.cloudfront.net/
+Deployed site: https://d2tz2jaiu1ret.cloudfront.net/
 
 Go to https://aws.amazon.com
 
